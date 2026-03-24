@@ -6,8 +6,6 @@
 - 🔗 **Saiba mais** sobre minha jornada no [LinkedIn](https://www.linkedin.com/in/daviferreiradev/)
 
 
-<br>
-
 ## 🛠 &nbsp;Habilidades tecnológicas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,7 +20,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br>
 
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
