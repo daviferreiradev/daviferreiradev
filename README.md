@@ -2,21 +2,7 @@
 <h1 align="left">Hi 👋, I'm Davi Ferreira</h1>
 <!-- <h1 align="left">Hi <img src="👋" height="30px">, I'm Davi Ferreira</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviferreiradev&color=yellow" alt="Visualizacões de perfil" /> </p>
-
-- 🔥 Estudante de **Engenharia de Software** na PUC Minas
-
-- 👨‍💻 Desenvolvedor Freelancer
   
-- 📖 Atualmente, aprofundando meu conhecimento em **Spring Boot** e criação de **APIs RESTful**
-
-- 🔍 Em busca de oportunidades de **Estágio em Desenvolvimento**
-
-<!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
-
-- 💬 Pergunte-me sobre **Java, JavaScript, HTML, CSS, SQL**
-
-- ⚡ **Fun fact:** Sou especialista em criar playlists de músicas para cada etapa do desenvolvimento de um projeto.
-
 - 🔗 **Saiba mais** sobre minha jornada no [LinkedIn](https://www.linkedin.com/in/daviferreiradev/)
 
 
